@@ -15,7 +15,7 @@ If you do not use Discord, let me know and we can utilize one of the many bots t
 
 # License
 
-This source code is published under the GPL. Feel free to clone, fork, make changes to, and generally experiment with this source code. I would really welcome it if patches made their way back to this main repository. However, if you do make changes, your derivative work must be open sourced and access to the entire source code must be freely available, if you decide not to collaborate on the main game and choose to work on your own fork instead. This might seem harsh, however my goal is to eventually, hopefully, have a community maintained, free and open first person shooter audiogame for the browser and Electron/NW.JS for everyone. People should be able to dive in, learn, make changes to, and otherwise contribute to this game within their abilities.
+This source code is published under the (WTFPL)[http://www.wtfpl.net/], which is a very permissive license which allows you to literally do whatever you want with this project. No guarantees of any kind. I will not be held liable for any damages, directly or indirectly, caused to you or any other entity in this universe by your involvement with this source code in any way.
 
 # Overview
 
