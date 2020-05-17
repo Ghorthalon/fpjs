@@ -9,9 +9,9 @@
   "author": "Ghorthalon",
   "license": "ISC",
   "dependencies": {
-    "electron": "^1.7.3",
-    "express": "^4.15.3",
-    "pkg": "^4.1.1",
+    "electron": "^1.8.8",
+    "express": "^4.17.1",
+    "pkg": "^4.4.8",
     "socket.io": "^2.0.3",
     "socket.io-client": "^2.0.3"
   }
