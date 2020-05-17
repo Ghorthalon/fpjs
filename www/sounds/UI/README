@@ -1,0 +1,43 @@
+These contain various user interface sounds. Below is an explanation of all sounds that must be present:
+
+deathquotes: These can be random sound bits that play when players die. There were 72 of them at the time. For example:
+deathquotes/
+deathquotes/1.ogg
+deathquotes/2.ogg
+
+etc.
+
+radar: This is for the radar that shows walls and players. It must contain:
+radar/free.ogg: for an empty area, meaning no walls in that direction.
+radar/pingEnemy.ogg: the sound that shows you where an enemy is close by.
+radar/pingFriend.ogg: A sound that shows you where a team mate is near by
+radar/wall.ogg: a sound that plays if a wall is in that direction
+
+bufferBoundary.ogg: When you hit the end of an in game buffer, like chat buffer, etc.
+bufferMove.ogg: Plays as you move through those buffers
+bufferSwitch.ogg: Played as you switch from one buffer to another
+chat.ogg: new chat message sound
+deathMenuLoop.ogg: looping sound that plays while you're in the menu that shows up after you've died.
+keyChar.ogg: sound that plays when you enter some text in a menu edit field
+keyCursorDown.ogg: sound that plays when you arrow down in a multiline edit field in the menu
+keyCursorLeft.ogg: sound that plays when you arrow left in a multiline edit field in the menu
+keyCursorRight.ogg: sound that plays when you arrow right in a multiline edit field in the menu
+keyCursorUp.ogg: sound that plays when you arrow up in a multiline edit field in the menu
+keyDelete.ogg: Sound that plays when you backspace in an edit field in the menu
+keyEnter.ogg: Sound that plays when you press enter in an edit box in a menu
+keyError.ogg: When you press an invalid key in an edit box in the menu
+menuBoundary.ogg: When you hit the end of a menu
+menuCheckboxOff.ogg: When you uncheck a checkbox in a menu
+menuCheckboxOn.ogg: When you check a checkbox in a menu
+menuChoose.ogg: When you choose an item in a menu
+menuClose.ogg: When a menu closes
+menuMove.ogg: When you arrow through the menu
+menuOpen.ogg: When a menu opens
+menuSelector.ogg: When you move the cursor in a selector item in the menu, from left to right
+menuSliderLeft.ogg: When you decrease a slider in the menu
+menuSliderRight.ogg: When you increase a slider in the menu
+menuWrap.ogg: When you wrap around in a wrappable menu
+system.ogg: System notification sound
+teamChat.ogg: What the name implies
+userJoin.ogg: When a new user logs into the game
+userLeave.ogg: When a player disconnects from the game

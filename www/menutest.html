@@ -1,0 +1,30 @@
+<html>
+<head>
+
+<title>Menu test</title>
+<script type="text/javascript" src="./js/jquery.js"></script>
+<script type="text/javascript" src="./js/tts.js"></script>
+<script type="text/javascript" src="./js/keycodes.js"></script>
+<script type="text/javascript" src="./js/sono.js"></script>
+<script type="text/javascript" src="./js/menuItem.js"></script>
+<script type="text/javascript" src="./js/menu.js"></script>
+<script type="text/javascript">
+function startMenu() {
+var startItem = new MenuItem(0, "Start");
+var optionsItem = new SelectorItem(1, "Options", ["Whatever", "floats", "Your", "boat"]);
+var volumeItem = new SliderItem(4, "Volume", 0, 100, 50);
+var nameItem = new EditItem(5, "Name", "Hi");
+var exitItem = new MenuItem(2, "Exit");
+var menu = new Menu("Main menu", [startItem, optionsItem, volumeItem, nameItem, exitItem]);
+menu.run(function(event) {
+	speech.speak("Options was set to " + event.items[1].value);
+	menu.destroy();
+	});
+}
+
+</script>
+</head>
+<body onload="startMenu();">
+<div id="speech" aria-live="polite"></div>
+</body>
+</html>

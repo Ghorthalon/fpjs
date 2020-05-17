@@ -1,0 +1,4 @@
+Each gun folder in here must have the following files:
+empty.ogg: when the gun is fired but you have no more bullets
+reload.ogg: When a gun is reloaded
+shoot[1-3].ogg: shot sounds

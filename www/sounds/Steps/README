@@ -1,0 +1,10 @@
+This folder contains the different step sounds that are played when players move through the map.
+
+Add the name of the tile as a folder, then within create files from 1.ogg to 12.ogg. For example:
+
+concrete/
+concrete/1.ogg
+concrete/2.ogg
+concrete/3.ogg
+
+etc.

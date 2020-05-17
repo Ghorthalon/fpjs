@@ -1,0 +1,13 @@
+These contain the different voices for the different characters. The folders are numbers from 1 to 12. They must contain:
+die[1-2].ogg: A death scream
+hurt[1-5].ogg: Pain screams when hit with bullets
+
+For example:
+1/
+1/die1.ogg
+1/die2.ogg
+1/hurt1.ogg
+1/hurt2.ogg
+1/hurt3.ogg
+1/hurt4.ogg
+1/hurt5.ogg

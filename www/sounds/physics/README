@@ -1,0 +1,4 @@
+This folder contains the different sounds that are caused by interactions within the game.
+If you see square brackets and a range of numbers, this means that this many sounds need to be present. For example:
+bullet[1-6].ogg means there must be:
+bullet1.ogg, bullet2.ogg, bullet3.ogg, bullet4.ogg, bullet5.ogg, bullet6.ogg

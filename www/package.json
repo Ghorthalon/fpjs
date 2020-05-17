@@ -1,0 +1,23 @@
+{
+  "name": "fpjs",
+  "version": "1.0.0",
+  "description": "First person shooter using only audio in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://tdrealms.com:8064/ghorthalon/fpjs"
+  },
+  "author": "ghorthalon",
+  "license": "ISC",
+  "DevDependencies": {
+      "electron": "^1.6.11"
+  },
+  
+  "dependencies": {
+
+    "electron-settings": "^3.1.1"
+  }
+}

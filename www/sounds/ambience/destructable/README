@@ -1,0 +1,10 @@
+These folders contain sounds of objects that can be destroyed while playing. They may contain:
+* loop.ogg: A sound that plays while the object hasn't been destroyed. This may be, for example, a clock ticking.
+* dest.ogg: A sound that plays when this object is destroyed. 
+
+Folder structure would look like this:
+```
+clock/
+clock/loop.ogg
+clock/dest.ogg
+```

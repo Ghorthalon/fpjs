@@ -1,0 +1,5 @@
+This folder contains all the sound assets for this game. If you add new ones, make sure to place it in a strategic location for easy manipulation. Try not to add new sounds to the root of this directory.
+Make sure not to check the sound assets themselves into this repository and use something like git LFS instead. If you're unsure about what this means, see the readme of this repository for ways to talk to us. If that doesn't help, simply file an issue.
+
+Please note: Not all the sounds described here might be implemented or work. You may need to check the source code to find out which ones are actually used.
+Every folder contains it's own README file which describes the sounds in that particular folder. Again, not all of them might be implemented. I've described it to the best of my ability from the sounds that were in place at the time.

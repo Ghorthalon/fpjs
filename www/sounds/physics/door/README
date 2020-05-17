@@ -1,0 +1,5 @@
+This folder contains the different types of door in the game. To add one, simply create a folder with a number. For example:
+1/
+1/close.ogg: when door 1 closes
+1/loop.ogg: the sound that door 1 emits to notify people of it's location
+1/open.ogg: the sound that door 1 makes when it opens

@@ -1,0 +1,4 @@
+This folder contains sounds that bullets make as they travel, hit walls, and impact with players or objects.
+* bullet[1-6].ogg: the sounds that bullets make as they travel through the air.
+* pImpact[1-6].ogg: The sounds that bullets make when they hit a player or object.
+* richo[1-8].ogg: The sound that a bullet makes when it bounces off of a wall.

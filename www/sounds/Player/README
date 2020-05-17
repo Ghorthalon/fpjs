@@ -1,0 +1,11 @@
+This folder contains sounds that are specific to players.
+despawn.ogg: A sound that plays when a player despawns from the map. For example, by being killed.
+die.ogg: a sound that plays when a player has died
+duck.ogg: a sound that the player makes when they duck
+hurt.ogg: a sound that a player makes when they get hurt
+inject.ogg: a sound that plays when a player injects themselves with a medkit
+spawn.ogg: a sound that plays when a player spawns
+turn.ogg: a sound that plays when a player turns in a cardinal direction
+unduck.ogg: a sound that plays when a player releases the duck key and stops ducking
+
+Note: Some of these sounds might not be implemented or be implemented elsewhere. Update this file with further information once it becomes available.
