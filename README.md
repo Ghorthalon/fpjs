@@ -15,7 +15,7 @@ If you do not use Discord, let me know and we can utilize one of the many bots t
 
 # License
 
-This source code is published under the (WTFPL)[http://www.wtfpl.net/], which is a very permissive license which allows you to literally do whatever you want with this project. No guarantees of any kind. I will not be held liable for any damages, directly or indirectly, caused to you or any other entity in this universe by your involvement with this source code in any way.
+This source code is published under the [WTFPL](http://www.wtfpl.net/), which is a very permissive license which allows you to literally do whatever you want with this project. No guarantees of any kind. I will not be held liable for any damages, directly or indirectly, caused to you or any other entity in this universe by your involvement with this source code in any way.
 
 # Overview
 
