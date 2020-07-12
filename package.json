@@ -9,7 +9,7 @@
   "author": "Ghorthalon",
   "license": "ISC",
   "dependencies": {
-    "electron": "^1.8.8",
+    "electron": "^7.2.4",
     "express": "^4.17.1",
     "pkg": "^4.4.8",
     "socket.io": "^2.0.3",
